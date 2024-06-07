@@ -42,7 +42,7 @@ To get the bot up and running in your Discord server, follow these steps:
 ## Usage
 Once the bot is added to your server, you can use the following commands:
 
-- `/[boss name] [spawn time]`: Start a timer for a boss. For example, `/spider` the timer will start.
+- `/[boss name]`: Start a timer for a boss. For example, `/spider` the timer will start.
 
 ## Contributing
 We welcome contributions to improve the bot! Here’s how you can contribute:
@@ -53,9 +53,6 @@ We welcome contributions to improve the bot! Here’s how you can contribute:
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a new Pull Request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 If you have any questions, feel free to reach out via GitHub issues or directly contact me at 0xRysen@gmail.com.
