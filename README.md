@@ -19,7 +19,7 @@ To get the bot up and running in your Discord server, follow these steps:
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/0xRyzen/Discord-bot-BossHunt.git
-    cd nightcrows-boss-timer-bot
+    cd Discord-bot-BossHunt
     ```
 2. **Create a Virtual Environment** (optional but recommended):
     ```bash
