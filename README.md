@@ -38,6 +38,10 @@ To get the bot up and running in your Discord server, follow these steps:
     ```bash
     NightCrowsTimer.py
     ```
+    if this does not work you might try
+   ```bash
+   python .\NightCrowsTimer.py
+   ```
 
 ## Usage
 Once the bot is added to your server, you can use the following commands:
